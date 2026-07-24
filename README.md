@@ -1,21 +1,21 @@
 # MySQL Data Analysis Project – Layoffs Dataset
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on cleaning and analyzing a real-world layoffs dataset using **MySQL**.
 The goal was to prepare raw Excel/CSV data and extract meaningful insights using SQL queries.
 
-## 🗂 Dataset
+##  Dataset
 - Source: layoffs.csv
 - Contains company-wise layoff data including industry, country, date, and number of employees laid off.
 
-## 🛠 Tools Used
+##  Tools Used
 - MySQL
 - Excel (for initial dataset)
 - SQL (Data Cleaning & EDA)
 
 ## 🔹 Steps Performed
 
-### 1️⃣ Data Cleaning
+### 1️ Data Cleaning
 - Removed duplicates
 - Standardized text fields
 - Handled NULL and missing values
@@ -24,7 +24,7 @@ The goal was to prepare raw Excel/CSV data and extract meaningful insights using
 
 (SQL file: `01_data_cleaning.sql`)
 
-### 2️⃣ Exploratory Data Analysis (EDA)
+### 2️ Exploratory Data Analysis (EDA)
 - Total layoffs by company
 - Layoffs by country and industry
 - Year-wise and month-wise trends
@@ -32,12 +32,12 @@ The goal was to prepare raw Excel/CSV data and extract meaningful insights using
 
 (SQL file: `02_exploratory_data_analysis.sql`)
 
-## 📊 Key Insights
+##  Key Insights
 - Certain industries were affected more than others
 - Layoffs peaked during specific years
 - A small number of companies contributed to a large percentage of total layoffs
 
-## 📁 Files Included
+##  Files Included
 - `layoffs.csv`
 - `01_data_cleaning.sql`
 - `02_exploratory_data_analysis.sql`
