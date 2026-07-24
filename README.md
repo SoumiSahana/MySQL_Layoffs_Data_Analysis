@@ -13,7 +13,7 @@ The goal was to prepare raw Excel/CSV data and extract meaningful insights using
 - Excel (for initial dataset)
 - SQL (Data Cleaning & EDA)
 
-## 🔹 Steps Performed
+##  Steps Performed
 
 ### 1️ Data Cleaning
 - Removed duplicates
@@ -42,7 +42,7 @@ The goal was to prepare raw Excel/CSV data and extract meaningful insights using
 - `01_data_cleaning.sql`
 - `02_exploratory_data_analysis.sql`
 
-## 🚀 Skills Demonstrated
+##  Skills Demonstrated
 - SQL Queries
 - Data Cleaning
 - Data Analysis
